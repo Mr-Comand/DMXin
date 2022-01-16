@@ -1283,3 +1283,8 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.16-14.57.46:186][991]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/DMXin-git/Saved/Fixtures_Auto1799991FB4B1C56909D62118E9169D0A8.tmp' to '../../../../../Documents/Unreal Projects/DMXin-git/Saved/Autosaves/Game/DMXTemplate/Maps/Fixtures_Auto1.umap'
 [2022.01.16-14.57.46:191][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DMXTemplate/Maps/Fixtures' took 0.109
 [2022.01.16-14.57.46:192][991]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.109
+[2022.01.16-15.00.08:345][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DMXTemplate/Maps/Fixtures" FILE="../../../../../Documents/Unreal Projects/DMXin-git/Content/DMXTemplate/Maps/Fixtures.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.16-15.00.08:350][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.01.16-15.00.08:429][928]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/DMXin-git/Saved/FixturesBDA78EF24BF2459B8901DFBCB3A93973.tmp' to '../../../../../Documents/Unreal Projects/DMXin-git/Content/DMXTemplate/Maps/Fixtures.umap'
+[2022.01.16-15.00.08:461][928]AssetCheck: New page: Asset Save: Fixtures
+[2022.01.16-15.00.08:461][928]LogContentValidation: Display: Validating World /Game/DMXTemplate/Maps/Fixtures.Fixtures
