@@ -1,0 +1,21 @@
+{
+	"Metadata":
+	{
+		"Classes":
+		{
+			"LightComponent":
+			{
+				"Fields":
+				{
+					"Temperature":
+					{
+						"Bools":
+						{
+							"IsFavorite": true
+						}
+					}
+				}
+			}
+		}
+	}
+}
